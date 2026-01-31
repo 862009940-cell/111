@@ -1,2 +1,5 @@
 streamlit
 zhipuai
+sniffio
+httpx
+pydantic
